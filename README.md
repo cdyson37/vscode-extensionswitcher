@@ -35,6 +35,7 @@ Don't be shy!
 
 ## Similar extensions
 
+* [file-ext-switcher](https://marketplace.visualstudio.com/items?itemName=JohannesRudolph.file-ext-switcher) - this is the most similar extension, and it supports iterating through more than two files.
 * [Header source](https://marketplace.visualstudio.com/items?itemName=ryzngard.vscode-header-source)
 * [Toggle Header/Source](https://marketplace.visualstudio.com/items?itemName=bbenoist.togglehs)
 
