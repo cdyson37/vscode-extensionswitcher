@@ -41,4 +41,4 @@ Don't be shy!
 
 ## Release Notes
 
-Initial release
+Bugfix: now iterates in the current editor window rather than the leftmost one.

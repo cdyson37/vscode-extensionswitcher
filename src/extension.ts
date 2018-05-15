@@ -52,7 +52,8 @@ function cmd_switch() {
     {
         p = p.catch (reason => {
             return vscode.workspace.openTextDocument (candidate).then (
-                document => vscode.window.showTextDocument (document)
+                document =>
+                    vscode.window.showTextDocument (document, editor.viewColumn)
             )
         });
     }

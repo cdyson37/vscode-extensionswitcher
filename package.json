@@ -5,7 +5,7 @@
     "version": "0.0.1",
     "publisher": "cdyson37",
     "repository": {
-        "type" : "git",
+        "type": "git",
         "url": "https://github.com/cdyson37/vscode-extensionswitcher.git"
     },
     "engines": {
