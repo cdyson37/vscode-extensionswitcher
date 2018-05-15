@@ -2,7 +2,7 @@
     "name": "extensionswitcher",
     "displayName": "Extension Switcher",
     "description": "Iterate through file extensions e.g. .cpp -> .inl -> .h",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "cdyson37",
     "repository": {
         "type": "git",
